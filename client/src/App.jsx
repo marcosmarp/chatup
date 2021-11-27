@@ -5,7 +5,7 @@ import ConsoleOutput from './components/ConsoleOutput/ConsoleOutput';
 
 
 function App() {
-  const restUri = "https://retro-chatup.herokuapp.com/";
+  const restUri = "https://retro-chatup.herokuapp.com/api";
   
   const [commands, setCommands] = useState([]);
   const [displayInput, setDisplayInput] = useState(true);
