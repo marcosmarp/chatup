@@ -39,4 +39,4 @@ if (process.env.NODE_ENV === 'PROD') {
   });
 }
 
-app.listen(5000);
+app.listen(process.env.PORT || 5000);
