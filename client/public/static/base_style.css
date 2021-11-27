@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+html, body {
+  background-color: black;
+}
+
+* {
+  font-family: 'Inconsolata', monospace;
+  color: #00FF66;
+}
+
+input {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+input:focus {
+  outline: none;
+}

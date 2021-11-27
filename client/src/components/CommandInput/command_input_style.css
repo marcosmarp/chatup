@@ -1,0 +1,17 @@
+#command_sector {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#input_command {
+  margin-left: .5rem;
+  background-color: transparent;
+  border-width: 0px;
+  width: 80vw;
+  text-transform: lowercase;
+}
+
+#input_command:focus {
+  outline: none;
+}

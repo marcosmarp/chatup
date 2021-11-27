@@ -1,0 +1,9 @@
+#new_chatroom_form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.new_chatroom_input_container {
+  display: flex;
+}

@@ -1,0 +1,23 @@
+#chatroom_container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+  border: 1px solid white;
+}
+
+#chatroom_title {
+  width: 100%;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid white;
+}
+
+#chats_container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.chat_list_item {
+  margin: .5rem;
+}

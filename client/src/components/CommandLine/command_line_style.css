@@ -1,0 +1,9 @@
+#command_container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#command {
+  margin-left: .5rem;
+}

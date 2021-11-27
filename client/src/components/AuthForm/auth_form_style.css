@@ -1,0 +1,12 @@
+.auth_input {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.auth_input:focus {
+  outline: none;
+}
+
+#form_username, #form_password {
+  display: flex;
+}

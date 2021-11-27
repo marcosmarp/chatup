@@ -1,0 +1,33 @@
+.navbar {
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-brand-icon {
+  margin-right: .5rem;
+}
+
+@media screen and (max-width: 1650px) {
+  .navbar {
+    padding-left: 25rem;
+    padding-right: 25rem;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .navbar {
+    padding-left: 15rem;
+    padding-right: 15rem;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .navbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
